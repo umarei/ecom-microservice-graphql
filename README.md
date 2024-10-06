@@ -80,7 +80,7 @@ KAFKA_BROKER=kafka:9092
 
 ## graphql-gateway:
 ```bash
-PORT=3004
+PORT=4000
 KAFKA_BROKER=kafka:9092
 ```
 
@@ -113,7 +113,7 @@ http://localhost:3003/orders
 GraphQL Gateway:
 
 ```bash
-http://localhost:3004/graphql
+http://localhost:4000/graphql
 ```
 
 
