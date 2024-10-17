@@ -4,6 +4,10 @@
 
 The **Ecom Microservice GraphQL** project is a comprehensive e-commerce solution built using a microservices architecture. It leverages various technologies and frameworks, including Node.js, Express, MongoDB, Kafka, and GraphQL, to create a scalable and efficient platform for managing users, products, and orders.
 
+![WhatsApp Image 2024-10-17 at 21 53 32_2d732b15](https://github.com/user-attachments/assets/64bb3f84-8196-4639-a67f-135067d25515)
+
+
+
 ## Key Features
 
 - **User Management**: User registration, login, and authentication.
